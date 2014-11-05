@@ -4,4 +4,9 @@ When you initialize a repository it creates a hidden directory that
 contains version control information.  You need to do it so the computer
 knows there's a version control repository there now.
 
+How is the staging area different from the working directory and
+the repository? What value do you think it offers?
 
+The staging area contains all files that will change in the next 
+'git commit'.  The value is you choose what is changed in the next commit,
+rather than everything.
