@@ -10,3 +10,26 @@ the repository? What value do you think it offers?
 The staging area contains all files that will change in the next 
 'git commit'.  The value is you choose what is changed in the next commit,
 rather than everything.
+
+How can you use the staging area to make sure you have one commit 
+per logical change?
+
+You can stage logical or modular improvements to the project, and only commmit
+working versions.
+
+What are some situations when branches would be helpful in keeping your 
+history organized?  How would branches help?
+
+branches can be used for separate experimental designs that can be merged
+later on.
+
+How do the diagrams help you visualize the branch structure?
+
+They allow me to see what different versions of the program are being
+and what needs to be updated or merged.
+
+What are the pros and cons of Git’s automatic merging vs. always 
+doing merges manually?
+
+Software automation is good as long as it works.  If it doesn't it better
+to do manually.  In this case, I think git does a good job.
