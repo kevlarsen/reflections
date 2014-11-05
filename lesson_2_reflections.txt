@@ -1,0 +1,7 @@
+What happens when you initialize a repository?  Why do you need to do it?
+
+When you initialize a repository it creates a hidden directory that
+contains version control information.  You need to do it so the computer
+knows there's a version control repository there now.
+
+
