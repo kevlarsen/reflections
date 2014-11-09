@@ -39,4 +39,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    You would use a separate branch when you wanted to experiment or work
+    on an isolated problem that can be merged later.
